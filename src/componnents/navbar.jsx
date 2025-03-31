@@ -44,7 +44,7 @@ function Navbar() {
       <nav className="w-full bg-black h-[80px] flex items-center justify-between pt-4 px-12 lg:px-28">
         {/* Logo */}
         <div className="flex items-center">
-          <img src="src/images/Demo Logo.png" alt="Demo Logo" />
+          <img src="https://frontend-mauve-beta-87.vercel.app/demo.png" alt="Demo Logo" />
         </div>
 
         {/* Desktop Navigation */}

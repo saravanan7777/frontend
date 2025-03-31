@@ -53,7 +53,7 @@ function HeroContent() {
           </div>
         </div>
       </div>
-      <img src="src/images/heros.png" alt="Description" className="hidden lg:block lg:h-[350px] w-full "/>
+      <img src="https://frontend-mauve-beta-87.vercel.app/hero.png" alt="Description" className="hidden lg:block lg:h-[350px] w-full "/>
      <ServicesSection/>
     </>
     );
